@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class RelationalOperators {
 
-  public static void main(String args[]) {
+  public static void main(String[] args) {
   
   int numeroUno, numeroDos = 0;
   Scanner scan = new Scanner(System.in);
