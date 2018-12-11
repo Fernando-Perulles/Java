@@ -1,4 +1,4 @@
-public class ArregloBidimencional {
+public class ArregloBidimensional {
 	
 	public static void main(String[] args) {
 		
