@@ -19,7 +19,7 @@ public class CalcularAreas {
 			case 1:
 			
 				int lado = Integer.parseInt(JOptionPane.showInputDialog("Introduce el lado"));
-        System.out.println("El \u00E1rea del Cuadrado es: " + Math.pow(lado, 2));        
+        			System.out.println("El \u00E1rea del Cuadrado es: " + Math.pow(lado, 2));        
 				break;
 				
 			case 2:
