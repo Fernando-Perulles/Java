@@ -6,3 +6,5 @@ Las sequencias de escape para poder imprimir letras con acento son:
 \u00f3 -> ó   ||    \u00d3 -> Ó
 \u00fa -> ú   ||    \u00da -> Ú
 \u00f1 -> ñ   ||    \u00d1 -> Ñ
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
