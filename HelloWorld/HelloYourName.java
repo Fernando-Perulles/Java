@@ -1,3 +1,8 @@
+/**
+ * Compilation: javac HelloYourName
+ * Execution: java HelloYourName
+ * This program asks for your name and take it as parameter to print it into the console.
+ **/
 import java.util.Scanner; // import Scanner class for scan object declaration.
 
 public class HelloYourName { // public is the access modifier.
